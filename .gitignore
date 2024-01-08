@@ -1,6 +1,7 @@
 /.vs
 **.sln
 **.vcproj.user
+**.vcxproj
 **.vcxproj.user
 
 # Build output
