@@ -1,0 +1,1 @@
+# glfw3_vk1_vs2022_template
